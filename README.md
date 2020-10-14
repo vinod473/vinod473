@@ -6,13 +6,13 @@
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to paint.
 
-<img src="https://komarev.com/ghpvc/?username=vinod473&color=blueviolet" alt="vinodKumar"/>
+![](https://komarev.com/ghpvc/?username=vinod473&color=blueviolet)
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/vinod-kumar-9057b0161/">
   <img align="left" alt="Vinod Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-
 
 ### Languages and Tools:
 
@@ -32,5 +32,3 @@
 - Codechef - [vinodkr123](https://www.codechef.com/users/vinodkr123)
 - Hackerank - [vinodkr123](https://www.hackerrank.com/vinodkr123)
 <br />
-
-[linkedin]: https://www.linkedin.com/in/vinod-kumar-9057b0161/
