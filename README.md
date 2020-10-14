@@ -1,5 +1,4 @@
 <h2 align="center">Hi there, I'm Vinod 👋 </h2>
----
 
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms. 
