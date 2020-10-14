@@ -1,12 +1,12 @@
 <h2 align="center">Hi there, I'm Vinod 👋 </h2>
 
+![](https://komarev.com/ghpvc/?username=vinod473&color=blueviolet)
+
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms. 
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to paint.
-
-![](https://komarev.com/ghpvc/?username=vinod473&color=blueviolet)
 
 ### Connect with me:
 
