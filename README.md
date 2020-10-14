@@ -1,5 +1,7 @@
-### Hi there, I'm Vinod 👋
+<h2 align="center">Hi there, I'm Vinod 👋 </h2>
 
+![](https://komarev.com/ghpvc/?username=vinod473&color=blueviolet)
+---
 
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms. 
@@ -29,6 +31,13 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+
+### Competitive Programming Profile:
+- Codechef - [vinodkr123](https://www.codechef.com/users/vinodkr123)
+- Hackerank - [vinodkr123](https://www.hackerrank.com/vinodkr123)
+
 <br />
+
+---
 
 [linkedin]: https://www.linkedin.com/in/vinod-kumar-9057b0161/
