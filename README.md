@@ -32,15 +32,13 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vinod's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinod473&show_icons=true&hide_border=true" />
-
-</details>
-
 ### Competitive Programming Profile:
 - Codechef - [vinodkr123](https://www.codechef.com/users/vinodkr123)
 - Hackerank - [vinodkr123](https://www.hackerrank.com/vinodkr123)
 
-<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Vinod's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinod473&show_icons=true&hide_border=true" />
+</details>
