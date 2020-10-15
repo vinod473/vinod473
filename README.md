@@ -39,6 +39,14 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod473&theme=light&hide_langs_below=1" />
+  </a>
+  </div>
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
   <img align="left" alt="Vinod's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinod473&show_icons=true&hide_border=true" />
 </details>
