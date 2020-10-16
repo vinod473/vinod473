@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/vinod-kumar-9057b0161/">
   <img align="left" alt="Vinod Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+<a href="https://stackoverflow.com/users/8038134/vinod">
+  <img align="left" alt="Vinod Kumar - Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>
+</a>
 <br />
 
 ### Languages and Tools:
