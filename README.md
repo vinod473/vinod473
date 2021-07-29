@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms. 
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love to paint.
 
 ### Connect with me:
 
